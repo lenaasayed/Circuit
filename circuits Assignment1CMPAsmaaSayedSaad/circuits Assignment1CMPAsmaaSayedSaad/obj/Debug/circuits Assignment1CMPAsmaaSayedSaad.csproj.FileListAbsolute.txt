@@ -1,0 +1,12 @@
+C:\Users\new\Documents\Visual Studio 2012\Projects\circuits Assignment1CMPAsmaaSayedSaad\circuits Assignment1CMPAsmaaSayedSaad\bin\Debug\circuits Assignment1CMPAsmaaSayedSaad.exe.config
+C:\Users\new\Documents\Visual Studio 2012\Projects\circuits Assignment1CMPAsmaaSayedSaad\circuits Assignment1CMPAsmaaSayedSaad\bin\Debug\circuits Assignment1CMPAsmaaSayedSaad.exe
+C:\Users\new\Documents\Visual Studio 2012\Projects\circuits Assignment1CMPAsmaaSayedSaad\circuits Assignment1CMPAsmaaSayedSaad\bin\Debug\circuits Assignment1CMPAsmaaSayedSaad.pdb
+C:\Users\new\Documents\Visual Studio 2012\Projects\circuits Assignment1CMPAsmaaSayedSaad\circuits Assignment1CMPAsmaaSayedSaad\obj\Debug\circuits Assignment1CMPAsmaaSayedSaad.csprojResolveAssemblyReference.cache
+C:\Users\new\Documents\Visual Studio 2012\Projects\circuits Assignment1CMPAsmaaSayedSaad\circuits Assignment1CMPAsmaaSayedSaad\obj\Debug\WindowsFormsApplication1.Delta_to_star.resources
+C:\Users\new\Documents\Visual Studio 2012\Projects\circuits Assignment1CMPAsmaaSayedSaad\circuits Assignment1CMPAsmaaSayedSaad\obj\Debug\WindowsFormsApplication1.star_to_delta.resources
+C:\Users\new\Documents\Visual Studio 2012\Projects\circuits Assignment1CMPAsmaaSayedSaad\circuits Assignment1CMPAsmaaSayedSaad\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\new\Documents\Visual Studio 2012\Projects\circuits Assignment1CMPAsmaaSayedSaad\circuits Assignment1CMPAsmaaSayedSaad\obj\Debug\circuits Assignment1CMPAsmaaSayedSaad.csproj.GenerateResource.Cache
+C:\Users\new\Documents\Visual Studio 2012\Projects\circuits Assignment1CMPAsmaaSayedSaad\circuits Assignment1CMPAsmaaSayedSaad\obj\Debug\circuits Assignment1CMPAsmaaSayedSaad.exe
+C:\Users\new\Documents\Visual Studio 2012\Projects\circuits Assignment1CMPAsmaaSayedSaad\circuits Assignment1CMPAsmaaSayedSaad\obj\Debug\circuits Assignment1CMPAsmaaSayedSaad.pdb
+C:\Users\new\Documents\Visual Studio 2012\Projects\circuits Assignment1CMPAsmaaSayedSaad\circuits Assignment1CMPAsmaaSayedSaad\obj\Debug\WindowsFormsApplication1.Main.resources
+C:\Users\new\Documents\Visual Studio 2012\Projects\circuits Assignment1CMPAsmaaSayedSaad\circuits Assignment1CMPAsmaaSayedSaad\obj\Debug\WindowsFormsApplication1.circuits.resources
